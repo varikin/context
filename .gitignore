@@ -1,0 +1,5 @@
+quotes.txt
+*.jpeg
+*.png
+*.ttf
+.DS_Store
