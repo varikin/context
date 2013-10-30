@@ -82,7 +82,3 @@ for quote in quotes:
     else:
         print("failure: {}".format(quote))
 
-
-# Google images for each quote
-# Add quote to first image
-
