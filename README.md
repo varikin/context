@@ -19,4 +19,5 @@ It then adds the quote to the image and saves it in the current directory.
 
 
 † Many great ideas are had over lunch
+
 ‡ With safe search on since this is for work
